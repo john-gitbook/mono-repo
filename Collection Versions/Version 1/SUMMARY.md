@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [This is version one of collection with versions](README.md)
+* [Page 1](page-1.md)
