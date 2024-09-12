@@ -2,5 +2,5 @@
 
 * [Page](README.md)
 * [table](table.md)
-* [Schema Types](public-api 1.md)
+* [Schema Types](public-api-doc.md)
 
