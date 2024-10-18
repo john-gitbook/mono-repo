@@ -1,4 +1,0 @@
-# Page
-
-Hello world
-
